@@ -1,0 +1,31 @@
+.container{
+    background-color: #c0b2ad89;
+    border: 1px;
+    padding: 10px;
+    margin: 20px;
+    opacity: 0.8;
+}
+.box1{
+    background-color: #62c2c2;
+    border: 1px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.box2{
+    background-color: #79b418;
+    border: 1px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    color: #fff;
+    border-radius: 20px;
+}.article{
+    background-color: #21687e;
+    border: 1px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    color: #fff;
+    border-radius: 20px;
+}
